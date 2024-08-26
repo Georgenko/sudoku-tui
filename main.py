@@ -2,10 +2,6 @@ import curses
 import numpy as np
 
 
-def map_input_to_numbers():
-    pass
-
-
 def draw_line(line_num, np_arr, stdscr):
 
     def itoc(digit):
